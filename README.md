@@ -17,7 +17,7 @@ We would like you to build a web app or service that allows
 
 • Registered users to form a connection with alternative users
 
-• An admin user to see the a list of users with connections
+• An admin username to see the a list of users with connections
 
 # Restrictions
 

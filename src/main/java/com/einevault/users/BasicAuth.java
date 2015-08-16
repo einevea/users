@@ -1,5 +1,7 @@
 package com.einevault.users;
 
+import com.einevault.users.model.UserPWD;
+
 import java.util.Base64;
 import java.util.Optional;
 import java.util.regex.Matcher;
