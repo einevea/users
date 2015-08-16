@@ -48,3 +48,9 @@ to set up seed data
 • *.Net is included in one of the known languages, we only have access to Mono with limited 
 
 exposure
+
+# Executing
+
+run UsersApp
+
+connect to  http://localhost:4567/users

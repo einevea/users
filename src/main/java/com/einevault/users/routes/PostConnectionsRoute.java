@@ -1,8 +1,6 @@
 package com.einevault.users.routes;
 
 import com.einevault.users.MemDB;
-import com.einevault.users.model.Role;
-import com.einevault.users.model.SimpleUser;
 import com.einevault.users.model.User;
 import com.einevault.users.model.UserPWD;
 import com.google.gson.Gson;
